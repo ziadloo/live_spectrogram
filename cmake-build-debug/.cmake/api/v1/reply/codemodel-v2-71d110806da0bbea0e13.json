@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "live_spectrogram",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "live_spectrogram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-live_spectrogram-Debug-5abde3615992a23b1b74.json",
+					"name" : "live_spectrogram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "live_spectrogram_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-live_spectrogram_autogen-Debug-d1f6b7410ed5e56e2c54.json",
+					"name" : "live_spectrogram_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "live_spectrogram_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-live_spectrogram_autogen_timestamp_deps-Debug-6d396a8b8cdfa4147a8e.json",
+					"name" : "live_spectrogram_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mehran/github/live_spectrogram/cmake-build-debug",
+		"source" : "/home/mehran/github/live_spectrogram"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

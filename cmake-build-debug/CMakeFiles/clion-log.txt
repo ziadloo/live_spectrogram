@@ -1,0 +1,6 @@
+/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mehran/Applications/clion-2021.3.2/bin/ninja/linux/ninja -G Ninja /home/mehran/github/live_spectrogram
+-- QWT_INCLUDE_DIR: 
+-- QWT_LIBRARY: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mehran/github/live_spectrogram/cmake-build-debug

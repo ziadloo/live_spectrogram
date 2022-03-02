@@ -1,0 +1,253 @@
+{
+	"BUILD_DIR" : "/home/mehran/github/live_spectrogram/cmake-build-debug/live_spectrogram_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mehran/github/live_spectrogram/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mehran/github/live_spectrogram/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mehran/github/live_spectrogram",
+	"CMAKE_EXECUTABLE" : "/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/mehran/github/live_spectrogram/CMakeLists.txt",
+		"/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake",
+		"/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeGenericSystem.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Platform/Linux.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Platform/UnixPaths.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeCInformation.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Compiler/GNU-C.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Compiler/GNU.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Platform/Linux-GNU-C.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Platform/Linux-GNU.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeCXXInformation.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Compiler/GNU.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Platform/Linux-GNU.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib64/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib64/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/FindThreads.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CheckLibraryExists.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CheckIncludeFile.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/FindPackageMessage.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/mehran/github/live_spectrogram",
+	"DEP_FILE" : "/home/mehran/github/live_spectrogram/cmake-build-debug/live_spectrogram_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "live_spectrogram_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/mehran/github/live_spectrogram/components/MainWindow.h",
+			"MU",
+			"XDQFSXMG3O/moc_MainWindow.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/MelLogScaleEngine.h",
+			"MU",
+			"XDQFSXMG3O/moc_MelLogScaleEngine.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/MelLogTransform.h",
+			"MU",
+			"XDQFSXMG3O/moc_MelLogTransform.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/MelSpectrogramPlot.hpp",
+			"MU",
+			"XDQFSXMG3O/moc_MelSpectrogramPlot.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/MfccPlot.hpp",
+			"MU",
+			"XDQFSXMG3O/moc_MfccPlot.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/SpectrogramPlot.hpp",
+			"MU",
+			"XDQFSXMG3O/moc_SpectrogramPlot.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/lib/mfcc.hpp",
+			"MU",
+			"ZJOKMXDKB7/moc_mfcc.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/pc/consumer.h",
+			"MU",
+			"RGA2EVWI6V/moc_consumer.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/pc/producer.h",
+			"MU",
+			"RGA2EVWI6V/moc_producer.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/pc/task.h",
+			"MU",
+			"RGA2EVWI6V/moc_task.cpp",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/utility.h",
+			"MU",
+			"EWIEGA46WW/moc_utility.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/mehran/github/live_spectrogram/cmake-build-debug/live_spectrogram_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/mehran/github/live_spectrogram/cmake-build-debug/live_spectrogram_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/mehran/github/live_spectrogram/cmake-build-debug",
+		"/home/mehran/github/live_spectrogram",
+		"/usr/include/qwt",
+		"/home/mehran/github/live_spectrogram/binary/rtaudio/include/rtaudio",
+		"/home/mehran/github/live_spectrogram/binary/fftw/include",
+		"/usr/include/qt",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/qt/QtWidgets",
+		"/usr/include/qt/QtGui",
+		"/usr/include",
+		"/usr/include/c++/11.1.0",
+		"/usr/include/c++/11.1.0/x86_64-pc-linux-gnu",
+		"/usr/include/c++/11.1.0/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/mehran/Applications/clion-2021.3.2/bin/cmake/linux/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/mehran/github/live_spectrogram/cmake-build-debug/live_spectrogram_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/live_spectrogram_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/live_spectrogram_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/mehran/github/live_spectrogram/components/MainWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/MelLogScaleEngine.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mehran/github/live_spectrogram/components/MelLogTransform.cpp",
+			"MU",
+			null
+		],
+		[ "/home/mehran/github/live_spectrogram/main.cpp", "MU", null ],
+		[ "/home/mehran/github/live_spectrogram/pc/consumer.cpp", "MU", null ],
+		[ "/home/mehran/github/live_spectrogram/pc/producer.cpp", "MU", null ],
+		[ "/home/mehran/github/live_spectrogram/pc/task.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

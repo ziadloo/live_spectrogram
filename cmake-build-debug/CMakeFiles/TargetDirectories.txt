@@ -1,0 +1,5 @@
+/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/live_spectrogram.dir
+/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/live_spectrogram_autogen_timestamp_deps.dir
+/home/mehran/github/live_spectrogram/cmake-build-debug/CMakeFiles/live_spectrogram_autogen.dir
