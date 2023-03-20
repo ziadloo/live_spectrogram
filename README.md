@@ -1,5 +1,5 @@
 # Live Spectrogram
-A simple program to acquire and calculate the spectrogram, mel-spectrogram, and MFCC from the system's audio live. While I don't have any practical use case for this program myself, I still think it's a good tool that provides intuition the relationship between the three aforementioned spectrum.
+A simple program to acquire and calculate the spectrogram, mel-spectrogram, and MFCC from the system's audio live. While I don't have any practical use case for this program myself, I still think it's a good tool that provides intuition on the relationship between the three aforementioned spectrum.
 
 ## How to install
 This program needs CMake v3.21 and C++ v17. You might be able to compile it using older versions of CMakes but changing the C++ version could be more challenging.
